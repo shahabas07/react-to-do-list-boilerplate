@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  padding-left: 35%;
+}
+.main {
+  background-color: aqua;
+  width: 50%;
+  height: 80vh;
+  margin-top: 40px;
+}
+.values{
+  position: relative;                                                                                         
+  left:   0px;
+  background-color: aliceblue;
+  width: 20vw;
+}
+.delete, .update{
+  position: absolute;
+  right: 0;
+  width:35%;
+}
+ol{
+  padding-inline-start:0;
+}    
